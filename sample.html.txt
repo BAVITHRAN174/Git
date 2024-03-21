@@ -1,1 +1,2 @@
 sample git commands practice commit
+second line of commit from desktop to git 
